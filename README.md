@@ -10,8 +10,9 @@ run.py
 
 
 #### Requirement: ####
-scikit-learn	1.0.2/n
-numba	0.48.0/n
-librosa	0.7.2/n
-torch	1.12.1+cu116/n
+scikit-learn	1.0.2
+numba	0.48.0
+librosa	0.7.2
+torch	1.12.1+cu116
 transformers	4.18.0
+
